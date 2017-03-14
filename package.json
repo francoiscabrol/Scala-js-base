@@ -1,0 +1,8 @@
+{
+  "name": "scala-js-base",
+  "dependencies": {
+    "jsdom": "^9.8.3",
+    "source-map-support": "^0.4.5"
+  },
+  "devDependencies": {},
+}

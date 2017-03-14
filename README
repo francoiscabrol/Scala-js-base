@@ -1,0 +1,9 @@
+Scala js basic project
+======================
+
+How to use
+----------
+
+Execute `sbt`
+Then execute `fastOptJS`
+Then open http://localhost:12345/index-dev.html
